@@ -1,0 +1,22 @@
+{
+  "name": "shopping-api",
+  "version": "1.0.0",
+  "description": "Shopping api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amr33mohamd/shopping-api.git"
+  },
+  "keywords": [
+    "shopping"
+  ],
+  "author": "Amr Mohamed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amr33mohamd/shopping-api/issues"
+  },
+  "homepage": "https://github.com/amr33mohamd/shopping-api#readme"
+}
