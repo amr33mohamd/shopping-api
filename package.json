@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/amr33mohamd/shopping-api/issues"
   },
-  "homepage": "https://github.com/amr33mohamd/shopping-api#readme"
+  "homepage": "https://github.com/amr33mohamd/shopping-api#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mysql": "^2.14.1"
+  }
 }
